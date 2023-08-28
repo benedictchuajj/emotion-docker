@@ -1,5 +1,7 @@
 # emotion-docker
 
+Configuration for the docker container of some emotion recognition and sentiment analysis models from HuggingFace. The emotion recognition model is a fine-tuned version of a pre-trained model to simplify the number of emotions detected to be relevant to my use-case (analyzing messages to a chatbot).  
+
 ## Prerequisites
 
 Make sure you have the following installed:
